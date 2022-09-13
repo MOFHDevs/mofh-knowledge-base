@@ -10,6 +10,6 @@ Nothing to see here, yet!
 ## Copyright and Credits
 Copyright 2022-Present MOFHDevs, all rights reserved.
 
-<a href="https://github.com/MOFHDevs/mofh-knowledge-base/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/MOFHDevs/mofh-knowledge-base.svg?style=for-the-badge"></a>
+<a href="https://github.com/MOFHDevs/mofh-knowledge-base/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/MOFHDevs/mofh-knowledge-base.svg?style=for-the-badge&colorA=38acba&colorB=005f6a"></a>
 
 </div>
